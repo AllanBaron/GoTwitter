@@ -1,0 +1,4 @@
+#Sun Nov 11 15:05:02 BRST 2018
+base.0=/run/media/allanbaron/Aquivos/Dev/Lab/Projetos/rocketseat/goweek/GoTwitter/mobile/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

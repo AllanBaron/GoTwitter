@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///run/media/allanbaron/Aquivos/Dev/Lab/Projetos/rocketseat/goweek/mobile/android/app/app.iml" filepath="/run/media/allanbaron/Aquivos/Dev/Lab/Projetos/rocketseat/goweek/mobile/android/app/app.iml" />
+      <module fileurl="file:///run/media/allanbaron/Aquivos/Dev/Lab/Projetos/rocketseat/goweek/mobile/android/mobile.iml" filepath="/run/media/allanbaron/Aquivos/Dev/Lab/Projetos/rocketseat/goweek/mobile/android/mobile.iml" />
+      <module fileurl="file:///run/media/allanbaron/Aquivos/Dev/Lab/Projetos/rocketseat/goweek/mobile/node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" filepath="/run/media/allanbaron/Aquivos/Dev/Lab/Projetos/rocketseat/goweek/mobile/node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
